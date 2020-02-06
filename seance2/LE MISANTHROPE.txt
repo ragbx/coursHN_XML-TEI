@@ -19,3 +19,6 @@ Dans vos brusques chagrins je ne puis vous comprendre,
 Et quoique amis enfin, je suis tout des premiers....
 ALCESTE, se levant brusquement.
 Moi, votre ami? Rayez cela de vos papiers.
+
+
+<div1 type="act" n="1">

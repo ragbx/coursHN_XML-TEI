@@ -21,22 +21,31 @@
          <div type="recto" facs="1"/> <!-- div = grandes divisions (un chapitre par exemple sur un livre--> 
          <div type="verso" facs="2"> <!-- facs permet de mettre lien vers image-->
             <spanGrp type="en-tête">
-               <span type="legende" rend="x"/> <!-- permet de décrire l'objet : donner position, ... -->
+               <span type="legende" rend="x">78 - Les Sables d'Olonne (Vendée)<lb/>le port</span> <!-- permet de décrire l'objet : donner position, ... -->
                <span type="timbre" rend="x"/>
                <span type="tamponPoste" rend="x"/>
             </spanGrp>
             <div type="message">
-               <p></p>
-               <closer>
-                  <salute></salute>
-                  <signed></signed>
+               <p>Bientot sur le chemin du retour,<lb/>
+                  avons eu du beau temps tout le<lb/>
+                  mois de juillet. Vous souhaite<lb/>
+                  à tous la même chose.<lb/>
+               </p>
+               <p>
+                  J'espère que vous êtes tous en bonne<lb/>
+                  santé. A chacun son tour, le<lb/>
+                  bon temps et le repos.<lb/>
+               </p>
+               <closer> <!-- inverse = opener -->
+                  <salute>Avec d'affectueuses pensées et<lb/>bons baisers à tous.</salute>
+                  <signed>Marcelle</signed>
                </closer>
             </div>
             <span type="destinataire">
                <address>
-                  <persName type="destinataire"/>
-                  <street></street>
-                  <settlement></settlement>
+                  <persName type="destinataire">Mme Veyssade Lucienne</persName>
+                  <street>31, rue du President Kennedy</street>
+                  <settlement>ALFORTVILLE <corr rend="rature" cert="low">val ???</corr>Val de Marne)</settlement>
                </address>
             </span>
          </div>

@@ -88,6 +88,7 @@
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <!-- déclaration de la méthode d'encodage de l'apparat -->
       <encodingDesc>
          <variantEncoding method="parallel-segmentation" location="internal"/>
       </encodingDesc>

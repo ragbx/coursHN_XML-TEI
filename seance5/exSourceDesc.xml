@@ -16,31 +16,33 @@
         <msDesc xml:id="A">
            <!-- identifier le manuscrit -->
            <msIdentifier>
-              <settlement><!--Ville de conservation --></settlement>
-              <repository><!-- Instance de conservation --></repository>
-              <idno><!-- identifiant (côte) --></idno>
+              <settlement>Valenciennes</settlement>
+              <repository>Bibliothèque municipale</repository>
+              <idno>150</idno>
               <altIdentifier>
-                 <idno></idno>
+                 <idno>143</idno>
+                 <p>ancienne cote</p>
               </altIdentifier>
               <altIdentifier>
                  <idno></idno>
               </altIdentifier>
            </msIdentifier>
            <head>
-              <title><!-- titre du manuscrit --></title>
-              <origDate><!-- datation --></origDate>
-              <note><!-- informations complémentaires --></note>
+              <title>Manuscrits de la Bibliothèque de Valenciennes. « In hoc corpore continentur libri octo Gregorii Nazanzeni episcopi, id est Apologeticus lib. I ; de epifanis sive de natali Domini lib. I ; de luminibus vel secundis epifanis lib. I ; de Pentecosten vel Spiritu sancto lib. I ; in semetipso de agro regressus, lib. I ; de Hieremia dicta praesente imperatore, apud quem intercedit pro quodam periclitante, lib. I ; de reconciliatione monachi, lib. I ; de grandinis vastatione, cum pater episcopus reticeret, lib. I. » </title>
+              <origDate>0825-0875</origDate>
+              <note>
+                 Contient : « Gregorii episcopi de grandinis vastatione, cum pater episcopus reticeret, explicit liber octavus. Lege feliciter » ; Poésie latine, dont Mangeart a publié le texte (p. 124) ; Prose latine en l'honneur de Ste Eulalie ; Cantilène romane de Ste Eulalie : « Buona pulcella... » ; « Rithmus teutonicus de piae memoriae Hludvico rege, filio Hludvici aeque regis » ; Poème latin de 15 distiques. Premiers et derniers vers</note>
            </head>
            
            <!-- structure du manuscrit -->
            <msContents>
               <msItemStruct>
-                 <locus from="" to=""><!-- folios concernés par la section --></locus>
+                 <locus from="141v" to="141v">Folio 141v</locus>
                  <author><!-- auteur --></author>
-                 <title><!-- titre de la section --></title>
-                 <incipit><!-- premiers mots de la section --></incipit>
-                 <explicit><!-- derniers mots de la section --></explicit>
-                 <textLang mainLang="" otherLangs=""><!-- langue principale du texte concerné --></textLang>
+                 <title>Cantilène romane de Ste Eulalie</title>
+                 <incipit>"Buona pulcella fut Eulalia..."</incipit>
+                 <explicit>"... Par souue clementia."</explicit>
+                 <textLang mainLang="fro">Ancien français</textLang>
               </msItemStruct>
            </msContents>
            
@@ -48,10 +50,10 @@
            <physDesc>
               <objectDesc>
                  <supportDesc>
-                    <support><!-- matériaux --></support>
+                    <support>parchemin</support>
                     <extent>
-                       <width unit="mm"/>
-                       <height unit="mm"/>
+                       <width unit="mm">237</width>
+                       <height unit="mm">150</height>
                     </extent>
                     <foliation><!-- type de cahier, nombre de folios--></foliation>
                  </supportDesc>

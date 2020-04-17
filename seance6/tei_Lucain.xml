@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Pharsale</title>
+            <author>Lucain</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="HL26">Ellesmere, Huntingdon Library 26.C.9</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div n="I" type="book">
+            <l n="183">Iam gelidas Caesar cursu superaverat Alpes,</l>
+            <l n="184">Ingentesque animo motus, bellumque futurum</l>
+            <l n="185">Ceperat. Ut ventum est parvi Rubiconis ad undas,</l>
+            <l n="186">Ingens visa duci Patriae trepidantis imago</l>
+            <l n="187">Clara per obscuram vultu moestissima noctem,</l>
+            <l n="188">Turrigero canos effundens vertice crines,</l>
+            <l n="189">Caesarie lacera, nudisque adstare lacertis,</l>
+            <l n="190">Et gemitu permixta loqui: Quo tenditis ultra?</l>
+            <l n="191">Quo fertis mea signa, viri? Si iure venitis,</l>
+            <l n="192">Si cives, huc usque licet. Tum perculit horror</l>
+            <l n="193">Membra ducis; riguere comae, gressusque coercens</l>
+            <l n="194">Languor in extrema tenuit vestigia ripa.</l>
+            <l n="195">Mox ait: O magnae qui moenia prospicis urbis</l>
+            <l n="196">Tarpeia de rupe, Tonans, Phrygiique penates</l>
+            <l n="197">Gentis Iuleae, et rapti secreta Quirini,</l>
+            <l n="198">Et residens celsa Latialis Iuppiter Alba,</l>
+            <l n="199">Vestalesque foci, summique o numinis instar</l>
+            <l n="200">Roma, fave coeptis. Non te furialibus armis</l>
+            <l n="201">Persequor. En, adsum, victor terraque marique</l>
+            <l n="202">Caesar, ubique tuus, liceat modo, nunc quoque, miles.</l>
+            <l n="203">Ille erit, ille nocens, qui me tibi fecerit hostem.</l>
+            <l n="204">Inde moras solvit belli, tumidumque per amnem</l>
+            <l n="205">Signa tulit propere: sicut squalentibus arvis</l>
+            <l n="206">Aestiferae Libyes viso leo comminus hoste</l>
+            <l n="207">Subsedit dubius, totam dum colligit iram;</l>
+            <l n="208">Mox ubi se saevae stimulavit verbere caudae</l>
+            <l n="209">Erexitque iubas, vasto et grave murmur hiatu</l>
+            <l n="210">Infremuit: tum, torta levis si lancea Mauri</l>
+            <l n="211">Haereat, aut latum subeant venabula pectus,</l>
+            <l n="212">Per ferrum, tanti securus vulneris, exit.</l>
+            <l n="213">Fonte cadit modico, parvisque impellitur undis</l>
+            <l n="214">Puniceus Rubicon, cum fervida canduit aestas:</l>
+            <l n="215">Perque imas serpit valles, et Gallica certus</l>
+            <l n="216">Limes ab Ausoniis disterminat arva colonis.</l>
+            <l n="217">Tum vires praebebat hiems, atque auxerat undas</l>
+            <l n="218">Tertia iam gravido pluvialis Cynthia cornu,</l>
+            <l n="219">Et madidis Euri resolutae flatibus Alpes.</l>
+            <l n="220">Primus in oblicum sonipes opponitur amnem,</l>
+            <l n="221">Excepturus aquas: molli tum cetera rumpit</l>
+            <l n="222">Turba vado faciles iam fracti fluminis undas.</l>
+         </div>
+      </body>
+   </text>
+</TEI>
